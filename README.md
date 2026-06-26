@@ -8,7 +8,7 @@ B.Sc. Media Engineering & Technology student at the German University in Cairo (
 
 📌 What I'm Up To
 - 🔭 Working on personal projects to build my portfolio
-- 🌱 Currently deepening my knowledge in [media engineering and technology]
+- 🌱 Currently exploring systems programming and signal processing
 - 💡 Looking for internship opportunities in 2026
 
 📫 ahmedhagrass577@gmail.com 
